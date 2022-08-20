@@ -5,4 +5,4 @@ If a user decides that a goal no longer fits their schedule, they can simply del
 
 Since this app was deployed on Heroku, the page may take a few more seconds to load.
 
-_Technologies Used: React, Redux, Redux Toolkit, Node, Express, MongoDB(Mongoose)_
+_Technologies Used: React, Redux, Redux Toolkit, Node, Express, MongoDB_
